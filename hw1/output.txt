@@ -1,0 +1,302 @@
+GUESS:	AM: -2.66E03	LM: -8.17E01	Total: -2.75E03	[in, tokyo, foreign, exchange, trading, yesterday, the, yen, increased, against, the, dollar]
+GOLD:	AM: -2.66E03	LM: -8.17E01	Total: -2.75E03	[in, tokyo, foreign, exchange, trading, yesterday, the, yen, increased, against, the, dollar]
+
+GUESS:	AM: -2.42E03	LM: -1.07E02	Total: -2.53E03	[that, 's, might, lift, the, yen, which, has, been, moving, in, tandem, with, the, market, recently]
+GOLD:	AM: -2.43E03	LM: -1.06E02	Total: -2.53E03	[that, might, lift, the, yen, which, has, been, moving, in, tandem, with, the, mark, recently]
+
+GUESS:	AM: -2.63E03	LM: -1.06E02	Total: -2.73E03	[the, currency, slid, more, than, one, percent, against, the, west, german, market, and, swiss, franc]
+GOLD:	AM: -2.63E03	LM: -1.10E02	Total: -2.74E03	[the, currency, slid, more, than, one, percent, against, the, west, german, mark, and, swiss, franc]
+
+GUESS:	AM: -2.68E03	LM: -9.23E01	Total: -2.77E03	[this, is, the, ninth, consecutive, month, in, which, the, index, has, exceeded, fifty, percent]
+GOLD:	AM: -2.68E03	LM: -9.23E01	Total: -2.77E03	[this, is, the, ninth, consecutive, month, in, which, the, index, has, exceeded, fifty, percent]
+
+GUESS:	AM: -4.17E03	LM: -1.54E02	Total: -4.33E03	[a, reading, above, fifty, percent, generally, indicates, that, the, economy, is, expanding, a, figure, below, fifty, percent, indicates, a, weakening, economy]
+GOLD:	AM: -4.17E03	LM: -1.54E02	Total: -4.33E03	[a, reading, above, fifty, percent, generally, indicates, that, the, economy, is, expanding, a, figure, below, fifty, percent, indicates, a, weakening, economy]
+
+GUESS:	AM: -2.56E03	LM: -9.62E01	Total: -2.66E03	[the, index, has, averaged, fifty, four, percent, in, the, first, four, months, of, nineteen, eighty, seven]
+GOLD:	AM: -2.56E03	LM: -9.62E01	Total: -2.66E03	[the, index, has, averaged, fifty, four, percent, in, the, first, four, months, of, nineteen, eighty, seven]
+
+GUESS:	AM: -2.43E03	LM: -8.66E01	Total: -2.51E03	[in, the, newly, created, position, he, heads, the, new, public, finance, department]
+GOLD:	AM: -2.43E03	LM: -8.66E01	Total: -2.51E03	[in, the, newly, created, position, he, heads, the, new, public, finance, department]
+
+GUESS:	AM: -3.55E03	LM: -1.26E02	Total: -3.68E03	[concern, about, the, inflation, outlook, increased, further, because, of, a, survey, of, corporate, purchasing, managers, released, yesterday]
+GOLD:	AM: -3.55E03	LM: -1.26E02	Total: -3.68E03	[concern, about, the, inflation, outlook, increased, further, because, of, a, survey, of, corporate, purchasing, managers, released, yesterday]
+
+GUESS:	AM: -5.34E03	LM: -1.87E02	Total: -5.53E03	[much, to, the, surprise, of, many, analysts, the, national, association, of, purchasing, management, 's, latest, survey, showed, economy, surged, last, month, reversing, a, three, month, decline]
+GOLD:	AM: -5.34E03	LM: -1.90E02	Total: -5.53E03	[much, to, the, surprise, of, many, analysts, the, national, association, of, purchasing, management, 's, latest, survey, showed, the, economy, surged, last, month, reversing, a, three, month, decline]
+
+GUESS:	AM: -3.47E03	LM: -1.33E02	Total: -3.61E03	[a, spokeswoman, blames, the, decline, on, market, volatility, and, says, the, swing, is, within, a, reasonable, range, for, us]
+GOLD:	AM: -3.47E03	LM: -1.33E02	Total: -3.61E03	[a, spokeswoman, blames, the, decline, on, market, volatility, and, says, the, swing, is, within, a, reasonable, range, for, us]
+
+GUESS:	AM: -1.70E03	LM: -5.57E01	Total: -1.76E03	[if, they, drive, the, supply, the, prices, rise]
+GOLD:	AM: -1.70E03	LM: -6.37E01	Total: -1.76E03	[if, they, dry, up, the, supply, the, prices, rise]
+
+GUESS:	AM: -3.18E03	LM: -1.09E02	Total: -3.29E03	[but, over, the, past, decade, the, price, of, cocaine, has, actually, fallen, adjusted, for, inflation]
+GOLD:	AM: -3.18E03	LM: -1.09E02	Total: -3.29E03	[but, over, the, past, decade, the, price, of, cocaine, has, actually, fallen, adjusted, for, inflation]
+
+GUESS:	AM: -1.79E03	LM: -7.13E01	Total: -1.86E03	[this, supply, keeps, growing, to, meet, a, growing, demand]
+GOLD:	AM: -1.80E03	LM: -6.83E01	Total: -1.86E03	[the, supply, keeps, growing, to, meet, a, growing, demand]
+
+GUESS:	AM: -3.44E03	LM: -1.22E02	Total: -3.56E03	[in, the, nineteen, eighty, four, reagan, landslide, both, parties, contested, three, hundred, sixty, seven, house, races]
+GOLD:	AM: -3.44E03	LM: -1.26E02	Total: -3.57E03	[in, the, nineteen, eighty, four, reagan, landslide, both, parties, contested, three, hundred, and, sixty, seven, house, races]
+
+GUESS:	AM: -1.83E03	LM: -5.60E01	Total: -1.89E03	[the, station, signs, are, indian, in, english]
+GOLD:	AM: -1.84E03	LM: -5.40E01	Total: -1.89E03	[the, station, signs, are, indeed, in, english]
+
+GUESS:	AM: -5.34E03	LM: -1.92E02	Total: -5.53E03	[last, year, new, hampshire, enacted, legislation, enabling, banks, from, outside, the, state, to, acquire, new, hampshire, banks, but, restrictions, in, the, bill, discouraged, potential, buyers]
+GOLD:	AM: -5.34E03	LM: -1.92E02	Total: -5.53E03	[last, year, new, hampshire, enacted, legislation, enabling, banks, from, outside, the, state, to, acquire, new, hampshire, banks, but, restrictions, in, the, bill, discouraged, potential, buyers]
+
+GUESS:	AM: -2.87E03	LM: -1.06E02	Total: -2.98E03	[as, a, result, a, new, bill, loosening, the, previous, restrictions, was, passed, earlier, this, year]
+GOLD:	AM: -2.87E03	LM: -1.06E02	Total: -2.98E03	[as, a, result, a, new, bill, loosening, the, previous, restrictions, was, passed, earlier, this, year]
+
+GUESS:	AM: -1.80E03	LM: -6.59E01	Total: -1.87E03	[indian, head, is, based, in, nashua, new, hampshire]
+GOLD:	AM: -1.80E03	LM: -6.59E01	Total: -1.87E03	[indian, head, is, based, in, nashua, new, hampshire]
+
+GUESS:	AM: -1.83E03	LM: -8.94E01	Total: -1.92E03	[the, combat, such, accomplishments, no, longer, place, so, well, in, gary]
+GOLD:	AM: -1.84E03	LM: -8.16E01	Total: -1.92E03	[but, such, accomplishments, no, longer, play, so, well, in, gary]
+
+GUESS:	AM: -1.01E03	LM: -3.90E01	Total: -1.05E03	[is, leadership, has, not, produced]
+GOLD:	AM: -1.01E03	LM: -4.04E01	Total: -1.05E03	[his, leadership, has, not, produced]
+
+GUESS:	AM: -1.37E03	LM: -5.56E01	Total: -1.43E03	[exploration, is, mainly, for, wider, crudes]
+GOLD:	AM: -1.37E03	LM: -5.62E01	Total: -1.43E03	[exploration, is, mainly, for, lighter, crudes]
+
+GUESS:	AM: -3.05E03	LM: -1.33E02	Total: -3.19E03	[but, a, treasury, official, in, washington, said, beazer, famous, deals, indicating, their, well, known, attacks, authorities]
+GOLD:	AM: -3.06E03	LM: -1.38E02	Total: -3.19E03	[but, a, treasury, official, in, washington, said, these, are, famous, deals, indicating, they, are, well, known, to, tax, authorities]
+
+GUESS:	AM: -3.28E03	LM: -1.66E02	Total: -3.44E03	[the, u., s., already, has, some, catching, up, to, do, with, what, 's, available, the, phone, customers, in, countries, with, fewer, restrictions, on, the, industry]
+GOLD:	AM: -3.29E03	LM: -1.67E02	Total: -3.45E03	[the, u., s., already, has, some, catching, up, to, do, with, what, 's, available, to, phone, customers, in, countries, with, fewer, restrictions, on, the, industry]
+
+GUESS:	AM: -2.12E03	LM: -9.24E01	Total: -2.21E03	[the, disclosure, of, a, possible, sale, of, ethan, allen, surprise, some, analysts]
+GOLD:	AM: -2.12E03	LM: -9.23E01	Total: -2.21E03	[the, disclosure, of, a, possible, sale, of, ethan, allen, surprised, some, analysts]
+
+GUESS:	AM: -3.87E03	LM: -1.99E02	Total: -4.06E03	[perhaps, they, think, they, can, get, top, dollar, for, that, portion, of, the, business, said, robert, buchanan, of, a., g., edwards, and, sons, incorporated, in, saint, louis]
+GOLD:	AM: -3.87E03	LM: -1.99E02	Total: -4.06E03	[perhaps, they, think, they, can, get, top, dollar, for, that, portion, of, the, business, said, robert, buchanan, of, a., g., edwards, and, sons, incorporated, in, saint, louis]
+
+GUESS:	AM: -3.26E03	LM: -1.74E02	Total: -3.43E03	[but, analysts, said, they, could, n't, estimate, how, much, as, sale, might, bring, because, interco, does, n't, break, out, even, allen, 's, results]
+GOLD:	AM: -3.25E03	LM: -1.79E02	Total: -3.43E03	[but, analysts, said, they, could, n't, estimate, how, much, a, sale, might, bring, because, interco, does, n't, break, out, ethan, allen, 's, results]
+
+GUESS:	AM: -9.50E02	LM: -3.92E01	Total: -9.89E02	[pretoria, denied, the, rumor]
+GOLD:	AM: -9.50E02	LM: -3.92E01	Total: -9.89E02	[pretoria, denied, the, rumor]
+
+GUESS:	AM: -1.43E03	LM: -5.67E01	Total: -1.48E03	[use, jail, for, life, in, nineteen, sixty, two]
+GOLD:	AM: -1.44E03	LM: -6.06E01	Total: -1.50E03	[he, was, jailed, for, life, in, nineteen, sixty, two]
+
+GUESS:	AM: -1.73E03	LM: -6.52E01	Total: -1.79E03	[rates, on, short, term, treasury, bills, fell, slightly]
+GOLD:	AM: -1.73E03	LM: -6.52E01	Total: -1.79E03	[rates, on, short, term, treasury, bills, fell, slightly]
+
+GUESS:	AM: -2.62E03	LM: -1.24E02	Total: -2.75E03	[the, latest, three, month, bill, rate, fell, from, seven, point, three, seven, percent, bid, from, seven, point, four, one, percent]
+GOLD:	AM: -2.62E03	LM: -1.24E02	Total: -2.75E03	[the, latest, three, month, bill, rate, fell, from, seven, point, three, seven, percent, bid, from, seven, point, four, one, percent]
+
+GUESS:	AM: -2.74E03	LM: -1.08E02	Total: -2.85E03	[the, rate, on, six, month, bills, declined, to, seven, point, four, six, percent, from, seven, point, five, percent]
+GOLD:	AM: -2.74E03	LM: -1.08E02	Total: -2.85E03	[the, rate, on, six, month, bills, declined, to, seven, point, four, six, percent, from, seven, point, five, percent]
+
+GUESS:	AM: -2.49E03	LM: -1.09E02	Total: -2.60E03	[the, b., w., a., 's, charges, are, absolutely, wrong, an, i., b., m., spokeswoman, says]
+GOLD:	AM: -2.49E03	LM: -1.09E02	Total: -2.60E03	[the, b., w., a., 's, charges, are, absolutely, wrong, an, i., b., m., spokeswoman, says]
+
+GUESS:	AM: -3.48E03	LM: -1.62E02	Total: -3.65E03	[she, adds, that, the, four, be, believing, members, who, are, fired, later, unsuccessfully, filed, charges, against, i., b., m., with, regulators]
+GOLD:	AM: -3.49E03	LM: -1.66E02	Total: -3.66E03	[she, adds, that, the, four, b., w., a., members, who, were, fired, later, unsuccessfully, filed, charges, against, i., b., m., with, regulators]
+
+GUESS:	AM: -1.99E03	LM: -7.37E01	Total: -2.06E03	[in, one, case, lawsuit, was, filed, which, was, later, settled]
+GOLD:	AM: -1.99E03	LM: -7.76E01	Total: -2.07E03	[in, one, case, a, lawsuit, was, filed, which, was, later, settled]
+
+GUESS:	AM: -2.48E03	LM: -9.67E01	Total: -2.57E03	[he, declined, to, identify, possible, targets, but, indicated, that, they, would, be, retailers]
+GOLD:	AM: -2.48E03	LM: -9.67E01	Total: -2.57E03	[he, declined, to, identify, possible, targets, but, indicated, that, they, would, be, retailers]
+
+GUESS:	AM: -2.02E03	LM: -7.37E01	Total: -2.09E03	[what, supermarkets, knows, best, is, how, to, market, he, said]
+GOLD:	AM: -2.02E03	LM: -7.37E01	Total: -2.09E03	[what, supermarkets, knows, best, is, how, to, market, he, said]
+
+GUESS:	AM: -2.96E03	LM: -1.29E02	Total: -3.09E03	[allegheny, international, agreed, to, go, private, in, a, five, hundred, million, dollar, buyout, arranged, by, first, boston]
+GOLD:	AM: -2.96E03	LM: -1.29E02	Total: -3.09E03	[allegheny, international, agreed, to, go, private, in, a, five, hundred, million, dollar, buyout, arranged, by, first, boston]
+
+GUESS:	AM: -1.83E03	LM: -6.44E01	Total: -1.90E03	[separately, the, firm, posted, a, wider, quarterly, lost]
+GOLD:	AM: -1.83E03	LM: -6.36E01	Total: -1.90E03	[separately, the, firm, posted, a, wider, quarterly, loss]
+
+GUESS:	AM: -3.82E03	LM: -1.38E02	Total: -3.96E03	[mr., lee, had, taken, the, title, of, executive, vice, president, engineering, and, manufacturing, after, leaving, the, presidency, and, february]
+GOLD:	AM: -3.82E03	LM: -1.38E02	Total: -3.96E03	[mr., lee, had, taken, the, title, of, executive, vice, president, engineering, and, manufacturing, after, leaving, the, presidency, in, february]
+
+GUESS:	AM: -2.58E03	LM: -1.05E02	Total: -2.69E03	[the, tele, quest, spokesman, said, the, executive, vice, president, post, wo, n't, be, felt]
+GOLD:	AM: -2.58E03	LM: -1.05E02	Total: -2.69E03	[the, tele, quest, spokesman, said, the, executive, vice, president, post, wo, n't, be, filled]
+
+GUESS:	AM: -4.25E03	LM: -1.60E02	Total: -4.41E03	[because, the, drop, in, its, price, in, new, york, trading, monday, was, greater, than, that, there, were, no, sony, buy, orders, and, tokyo, yesterday]
+GOLD:	AM: -4.25E03	LM: -1.60E02	Total: -4.41E03	[because, the, drop, in, its, price, in, new, york, trading, monday, was, greater, than, that, there, were, no, sony, buy, orders, in, tokyo, yesterday]
+
+GUESS:	AM: -1.97E03	LM: -7.54E01	Total: -2.04E03	[if, it, 's, not, a, quality, name, investors, down, one, eighth]
+GOLD:	AM: -1.97E03	LM: -8.00E01	Total: -2.04E03	[if, it, 's, not, a, quality, name, investors, do, n't, want, it]
+
+GUESS:	AM: -4.43E03	LM: -1.76E02	Total: -4.60E03	[that, one, obstacle, to, balanced, trade, is, south, korea, 's, addiction, to, japanese, imports, which, have, increased, more, than, seventy, percent, since, nineteen, eighty, one]
+GOLD:	AM: -4.43E03	LM: -1.77E02	Total: -4.61E03	[but, one, obstacle, to, balanced, trade, is, south, korea, 's, addiction, to, japanese, imports, which, have, increased, more, than, seventy, percent, since, nineteen, eighty, one]
+
+GUESS:	AM: -3.40E03	LM: -1.33E02	Total: -3.53E03	[a, higher, prime, is, predicted, because, the, fed, may, raise, its, discount, rate, soon, to, help, support, the, dollar]
+GOLD:	AM: -3.40E03	LM: -1.33E02	Total: -3.53E03	[a, higher, prime, is, predicted, because, the, fed, may, raise, its, discount, rate, soon, to, help, support, the, dollar]
+
+GUESS:	AM: -3.79E03	LM: -1.74E02	Total: -3.97E03	[many, economists, believe, the, fed, 's, recent, credit, tightening, along, with, japan, 's, rate, cuts, what, be, enough, to, stem, the, dollar, 's, fall]
+GOLD:	AM: -3.79E03	LM: -1.80E02	Total: -3.97E03	[many, economists, believe, the, fed, 's, recent, credit, tightening, along, with, japan, 's, rate, cuts, wo, n't, be, enough, to, stem, the, dollar, 's, fall]
+
+GUESS:	AM: -2.98E03	LM: -1.06E02	Total: -3.08E03	[the, korean, economy, powered, by, the, export, sector, has, seemed, immune, to, the, turmoil]
+GOLD:	AM: -2.98E03	LM: -1.06E02	Total: -3.08E03	[the, korean, economy, powered, by, the, export, sector, has, seemed, immune, to, the, turmoil]
+
+GUESS:	AM: -3.16E03	LM: -1.18E02	Total: -3.28E03	[manufacturers, have, so, many, orders, already, in, the, pipeline, says, another, u., s., bank, manager, in, sell]
+GOLD:	AM: -3.17E03	LM: -1.21E02	Total: -3.29E03	[manufacturers, have, so, many, orders, already, in, the, pipeline, says, another, u., s., bank, manager, in, seoul]
+
+GUESS:	AM: -2.15E03	LM: -9.35E01	Total: -2.24E03	[some, any, foreign, businessmen, are, stealing, town, has, far, as, i, now]
+GOLD:	AM: -2.17E03	LM: -9.48E01	Total: -2.26E03	[so, many, foreign, businessmen, are, still, in, town, as, far, as, i, know]
+
+GUESS:	AM: -4.07E03	LM: -1.52E02	Total: -4.22E03	[in, the, secondary, markets, fixed, coupon, eurodollar, bonds, scored, slight, gains, on, in, afternoon, rebound, in, u., s., treasurys]
+GOLD:	AM: -4.07E03	LM: -1.54E02	Total: -4.22E03	[in, the, secondary, markets, fixed, coupon, eurodollar, bonds, scored, slight, gains, on, an, afternoon, rebound, in, u., s., treasurys]
+
+GUESS:	AM: -3.45E03	LM: -1.41E02	Total: -3.59E03	[the, dollar, bond, markets, in, general, were, quiet, as, participants, watched, for, signs, of, changing, u., s., monetary, policy]
+GOLD:	AM: -3.45E03	LM: -1.43E02	Total: -3.59E03	[the, dollar, bond, markets, in, general, were, quiet, as, participants, watched, for, signs, of, change, in, u., s., monetary, policy]
+
+GUESS:	AM: -2.88E03	LM: -9.11E01	Total: -2.97E03	[utility, analysts, however, expect, the, agreement, to, be, completed, without, much, difficulty]
+GOLD:	AM: -2.88E03	LM: -9.11E01	Total: -2.97E03	[utility, analysts, however, expect, the, agreement, to, be, completed, without, much, difficulty]
+
+GUESS:	AM: -1.88E03	LM: -5.78E01	Total: -1.94E03	[about, three, point, five, billion, of, securities, are, affected]
+GOLD:	AM: -1.88E03	LM: -5.78E01	Total: -1.94E03	[about, three, point, five, billion, of, securities, are, affected]
+
+GUESS:	AM: -2.79E03	LM: -1.16E02	Total: -2.91E03	[it, offers, outstanding, graduate, situation, free, year, to, broaden, their, liberal, arts, background]
+GOLD:	AM: -2.80E03	LM: -1.23E02	Total: -2.92E03	[it, offers, outstanding, graduates, a, tuition, free, year, to, broaden, their, liberal, arts, background]
+
+GUESS:	AM: -2.45E03	LM: -1.52E02	Total: -2.60E03	[if, drying, up, the, supply, does, n't, work, any, serious, anti, drug, effort, has, to, tried, drawing, up, the, demand]
+GOLD:	AM: -2.46E03	LM: -1.54E02	Total: -2.61E03	[if, drying, up, the, supply, does, n't, work, any, serious, anti, drug, effort, has, to, try, drying, up, the, demand]
+
+GUESS:	AM: -1.63E03	LM: -8.64E01	Total: -1.71E03	[the, experts, worry, about, geo, space, the, busy, deeper, problem]
+GOLD:	AM: -1.63E03	LM: -9.20E01	Total: -1.72E03	[the, experts, worry, about, jail, space, but, there, is, a, deeper, problem]
+
+GUESS:	AM: -1.94E03	LM: -7.90E01	Total: -2.02E03	[increase, government, funding, for, education, has, pickups, of, the, slack]
+GOLD:	AM: -1.94E03	LM: -9.67E01	Total: -2.04E03	[increased, government, funding, for, higher, education, has, picked, up, some, of, the, slack]
+
+GUESS:	AM: -1.92E03	LM: -1.10E02	Total: -2.03E03	[colleges, say, such, grants, help, students, who, could, qualify, for, need, based, aid]
+GOLD:	AM: -1.91E03	LM: -1.16E02	Total: -2.03E03	[colleges, say, such, grants, help, students, who, could, n't, qualify, for, need, based, aid]
+
+GUESS:	AM: -1.37E03	LM: -5.24E01	Total: -1.42E03	[the, biggest, also, powerful, recruiting, tool]
+GOLD:	AM: -1.36E03	LM: -6.92E01	Total: -1.43E03	[but, the, grants, are, also, a, powerful, recruiting, tool]
+
+GUESS:	AM: -2.51E03	LM: -1.14E02	Total: -2.62E03	[norman, robertson, senior, vice, president, and, chief, economist, at, mellon, bank, in, pittsburgh, agreed]
+GOLD:	AM: -2.51E03	LM: -1.14E02	Total: -2.62E03	[norman, robertson, senior, vice, president, and, chief, economist, at, mellon, bank, in, pittsburgh, agreed]
+
+GUESS:	AM: -2.62E03	LM: -1.40E02	Total: -2.76E03	[certainly, the, recent, dutch, economic, reports, virtually, eliminates, the, need, for, any, further, tightening, before, election, day]
+GOLD:	AM: -2.63E03	LM: -1.45E02	Total: -2.77E03	[certainly, the, recent, batch, of, economic, reports, virtually, eliminates, the, need, for, any, further, tightening, before, election, day]
+
+GUESS:	AM: -3.85E03	LM: -1.75E02	Total: -4.02E03	[nestle, enterprises, targets, most, of, its, products, at, the, middle, class, and, upper, middle, class, markets, were, purchasing, power, has, increased, he, said]
+GOLD:	AM: -3.85E03	LM: -1.77E02	Total: -4.02E03	[nestle, enterprises, targets, most, of, its, products, at, the, middle, class, and, upper, middle, class, markets, where, purchasing, power, has, increased, he, said]
+
+GUESS:	AM: -3.04E03	LM: -1.31E02	Total: -3.17E03	[also, the, company, will, launching, number, of, major, new, products, or, push, existing, products, into, new, markets, he, said]
+GOLD:	AM: -3.04E03	LM: -1.34E02	Total: -3.18E03	[also, the, company, will, launch, a, number, of, major, new, products, or, push, existing, products, into, new, markets, he, said]
+
+GUESS:	AM: -2.69E03	LM: -1.42E02	Total: -2.84E03	[moreover, other, managers, and, peers, ten, to, shy, away, from, workers, to, one, day, might, do, the, same, to, them]
+GOLD:	AM: -2.69E03	LM: -1.47E02	Total: -2.84E03	[moreover, other, managers, and, peers, tend, to, shy, away, from, workers, who, one, day, might, do, the, same, to, them]
+
+GUESS:	AM: -3.31E03	LM: -1.77E02	Total: -3.49E03	[the, company, always, believes, rightly, or, wrongly, that, one, dyson, trouble, they, 've, given, him, good, and, sufficient, chance, to, be, successful]
+GOLD:	AM: -3.31E03	LM: -1.88E02	Total: -3.50E03	[the, company, always, believes, rightly, or, wrongly, that, when, a, guy, is, in, trouble, they, 've, given, him, good, and, sufficient, chance, to, be, successful]
+
+GUESS:	AM: -1.19E03	LM: -6.29E01	Total: -1.25E03	[they, burned, the, right, to, bad, mouth, them]
+GOLD:	AM: -1.19E03	LM: -7.02E01	Total: -1.26E03	[they, 've, earned, the, right, to, bad, mouth, him]
+
+GUESS:	AM: -2.18E03	LM: -8.47E01	Total: -2.26E03	[when, the, subordinate, bad, mouths, he, has, n't, earned, that, right]
+GOLD:	AM: -2.18E03	LM: -8.47E01	Total: -2.26E03	[when, the, subordinate, bad, mouths, he, has, n't, earned, that, right]
+
+GUESS:	AM: -1.04E03	LM: -3.65E01	Total: -1.08E03	[some, are, n't, so, sure]
+GOLD:	AM: -1.04E03	LM: -3.65E01	Total: -1.08E03	[some, are, n't, so, sure]
+
+GUESS:	AM: -1.95E03	LM: -8.69E01	Total: -2.04E03	[inevitably, one, child, asks, how, digit, get, off, the, tape]
+GOLD:	AM: -1.96E03	LM: -9.01E01	Total: -2.05E03	[inevitably, one, child, asks, how, did, you, get, off, the, tape]
+
+GUESS:	AM: -1.83E03	LM: -6.41E01	Total: -1.89E03	[others, it, had, the, opposite, problem, wasted, money]
+GOLD:	AM: -1.83E03	LM: -6.47E01	Total: -1.90E03	[others, have, had, the, opposite, problem, wasted, money]
+
+GUESS:	AM: -2.62E03	LM: -1.18E02	Total: -2.74E03	[a, group, of, workers, at, one, ford, plant, receive, tuition, assistance, to, attend, flights, goal]
+GOLD:	AM: -2.63E03	LM: -1.16E02	Total: -2.74E03	[a, group, of, workers, at, one, ford, plant, received, tuition, assistance, to, attend, flight, school]
+
+GUESS:	AM: -2.52E03	LM: -1.19E02	Total: -2.64E03	[only, one, actually, took, the, course, while, the, rest, plans, to, use, the, money, to, buy, a, plane]
+GOLD:	AM: -2.52E03	LM: -1.20E02	Total: -2.64E03	[only, one, actually, took, the, course, while, the, rest, planned, to, use, the, money, to, buy, a, plane]
+
+GUESS:	AM: -1.58E03	LM: -5.56E01	Total: -1.64E03	[they, were, caught, before, completing, the, purchase]
+GOLD:	AM: -1.58E03	LM: -5.56E01	Total: -1.64E03	[they, were, caught, before, completing, the, purchase]
+
+GUESS:	AM: -1.47E03	LM: -5.33E01	Total: -1.52E03	[the, index, fell, twelve, point, two, percent, monday]
+GOLD:	AM: -1.47E03	LM: -5.33E01	Total: -1.52E03	[the, index, fell, twelve, point, two, percent, monday]
+
+GUESS:	AM: -2.55E03	LM: -1.04E02	Total: -2.66E03	[volume, was, heavy, an, all, one, hundred, and, twenty, nine, issues, that, traded, posted, declines]
+GOLD:	AM: -2.56E03	LM: -1.02E02	Total: -2.66E03	[volume, was, heavy, and, all, one, hundred, and, twenty, nine, issues, that, traded, posted, declines]
+
+GUESS:	AM: -1.53E03	LM: -7.11E01	Total: -1.60E03	[why, have, in, accounting, standards, involved, for, the, federal, government]
+GOLD:	AM: -1.53E03	LM: -7.60E01	Total: -1.61E03	[why, have, n't, accounting, standards, evolved, for, the, federal, government]
+
+GUESS:	AM: -3.83E03	LM: -1.73E02	Total: -4.00E03	[the, federal, government, is, now, the, largest, enterprise, under, it, in, its, financial, commitments, are, so, vastly, cash, basis, accounting, no, longer, frets]
+GOLD:	AM: -3.84E03	LM: -1.77E02	Total: -4.02E03	[the, federal, government, is, now, the, largest, enterprise, on, earth, and, its, financial, commitments, are, so, vast, that, cash, basis, accounting, no, longer, fits]
+
+GUESS:	AM: -1.18E03	LM: -4.87E01	Total: -1.23E03	[the, impact, of, the, cheating, was, unclear]
+GOLD:	AM: -1.18E03	LM: -4.87E01	Total: -1.23E03	[the, impact, of, the, cheating, was, unclear]
+
+GUESS:	AM: -3.17E03	LM: -1.39E02	Total: -3.31E03	[the, prospect, into, takeover, legislation, massachusetts, does, n't, appear, to, arouse, any, fears, among, the, perelman, forces]
+GOLD:	AM: -3.18E03	LM: -1.49E02	Total: -3.32E03	[the, prospect, of, anti, takeover, legislation, in, massachusetts, does, n't, appear, to, arouse, any, fears, among, the, perelman, forces]
+
+GUESS:	AM: -1.42E03	LM: -6.96E01	Total: -1.49E03	[it, 's, not, a, problem, said, a, source, close, to, the, company]
+GOLD:	AM: -1.42E03	LM: -6.96E01	Total: -1.49E03	[it, 's, not, a, problem, said, a, source, close, to, the, company]
+
+GUESS:	AM: -1.88E03	LM: -8.01E01	Total: -1.96E03	[monday, 's, decline, ship, confidence, every, investor, big, and, small]
+GOLD:	AM: -1.87E03	LM: -8.84E01	Total: -1.96E03	[monday, 's, decline, shook, the, confidence, of, every, investor, big, and, small]
+
+GUESS:	AM: -1.53E03	LM: -7.86E01	Total: -1.61E03	[if, it, 's, not, a, quality, named, investors, do, n't, want, in]
+GOLD:	AM: -1.53E03	LM: -8.00E01	Total: -1.61E03	[if, it, 's, not, a, quality, name, investors, do, n't, want, it]
+
+GUESS:	AM: -3.00E03	LM: -1.70E02	Total: -3.17E03	[in, late, spring, nineteen, eighty, six, the, boston, team, fund, to, bits, of, normal, d., n., a., that, appeared, to, be, part, of, the, gene]
+GOLD:	AM: -3.00E03	LM: -1.73E02	Total: -3.18E03	[in, late, spring, nineteen, eighty, six, the, boston, team, found, two, bits, of, normal, d., n., a., that, appeared, to, be, part, of, a, gene]
+
+GUESS:	AM: -1.86E03	LM: -8.82E01	Total: -1.95E03	[at, two, p., m., he, shutdown, infected, computers, to, clear, the, system]
+GOLD:	AM: -1.87E03	LM: -9.73E01	Total: -1.97E03	[at, two, p., m., he, shut, down, the, infected, computers, to, clear, the, system]
+
+GUESS:	AM: -3.44E03	LM: -1.48E02	Total: -3.59E03	[a, spokesman, for, olympia, and, york, said, it, has, n't, any, plans, to, increase, its, campeau, stake, fallen, that, debenture, purchase]
+GOLD:	AM: -3.45E03	LM: -1.45E02	Total: -3.59E03	[a, spokesman, for, olympia, and, york, said, it, has, n't, any, plans, to, increase, its, campeau, stake, following, the, debenture, purchase]
+
+GUESS:	AM: -1.35E03	LM: -4.26E01	Total: -1.39E03	[or, just, in, investor, in, campeau]
+GOLD:	AM: -1.35E03	LM: -5.25E01	Total: -1.41E03	[we, 're, just, an, investor, in, campeau]
+
+GUESS:	AM: -3.31E03	LM: -1.23E02	Total: -3.43E03	[the, federated, acquisition, created, an, opportunity, of, a, olympia, and, york, to, increase, its, ownership, the, spokesman, said]
+GOLD:	AM: -3.32E03	LM: -1.20E02	Total: -3.44E03	[the, federated, acquisition, created, an, opportunity, for, olympia, and, york, to, increase, its, ownership, the, spokesman, said]
+
+GUESS:	AM: -1.55E03	LM: -5.40E01	Total: -1.61E03	[the, station, signs, are, indeed, in, english]
+GOLD:	AM: -1.55E03	LM: -5.40E01	Total: -1.61E03	[the, station, signs, are, indeed, in, english]
+
+GUESS:	AM: -2.38E03	LM: -9.68E01	Total: -2.47E03	[the, federal, reserve, 's, policy, committee, met, yesterday, and, tuesday, to, outline, strategy]
+GOLD:	AM: -2.38E03	LM: -9.68E01	Total: -2.47E03	[the, federal, reserve, 's, policy, committee, met, yesterday, and, tuesday, to, outline, strategy]
+
+GUESS:	AM: -1.68E03	LM: -5.77E01	Total: -1.74E03	[the, fed, spokesman, declined, to, comment, as, usual]
+GOLD:	AM: -1.68E03	LM: -5.86E01	Total: -1.74E03	[a, fed, spokesman, declined, to, comment, as, usual]
+
+GUESS:	AM: -3.97E03	LM: -1.70E02	Total: -4.14E03	[fed, chairman, alan, greenspan, is, scheduled, to, give, his, midyear, economic, report, at, a, house, banking, committee, hearing, on, february, twenty, third]
+GOLD:	AM: -3.97E03	LM: -1.70E02	Total: -4.14E03	[fed, chairman, alan, greenspan, is, scheduled, to, give, his, midyear, economic, report, at, a, house, banking, committee, hearing, on, february, twenty, third]
+
+GUESS:	AM: -2.23E03	LM: -8.72E01	Total: -2.31E03	[an, additional, nineteen, percent, blamed, lack, of, any, benefits, communication, plan]
+GOLD:	AM: -2.23E03	LM: -8.72E01	Total: -2.31E03	[an, additional, nineteen, percent, blamed, lack, of, any, benefits, communication, plan]
+
+GUESS:	AM: -2.76E03	LM: -1.29E02	Total: -2.89E03	[fully, forty, three, percent, felt, their, communication, programs, do, n't, work, or, are, n't, sure, that, they, do]
+GOLD:	AM: -2.76E03	LM: -1.29E02	Total: -2.89E03	[fully, forty, three, percent, felt, their, communication, programs, do, n't, work, or, are, n't, sure, that, they, do]
+
+GUESS:	AM: -2.57E03	LM: -1.05E02	Total: -2.68E03	[some, calm, the, return, to, world, oil, markets, after, last, week, 's, stormy, trading]
+GOLD:	AM: -2.57E03	LM: -1.09E02	Total: -2.68E03	[some, calm, may, return, to, world, oil, markets, after, last, week, 's, stormy, trading]
+
+GUESS:	AM: -2.12E03	LM: -7.23E01	Total: -2.19E03	[but, many, oil, analysts, said, market, fundamentals, remain, bearish]
+GOLD:	AM: -2.12E03	LM: -7.23E01	Total: -2.19E03	[but, many, oil, analysts, said, market, fundamentals, remain, bearish]
+
+GUESS:	AM: -3.57E03	LM: -1.58E02	Total: -3.73E03	[the, price, committee, for, the, organization, of, petroleum, exporting, countries, meets, next, sunday, in, some, said, that, should, spur, another, rally]
+GOLD:	AM: -3.57E03	LM: -1.57E02	Total: -3.73E03	[the, price, committee, for, the, organization, of, petroleum, exporting, countries, meets, next, sunday, and, some, said, that, should, spur, another, rally]
+
+GUESS:	AM: -2.91E03	LM: -1.22E02	Total: -3.03E03	[a, supporting, factor, in, the, market, was, the, latest, monthly, survey, by, the, national, association, of, purchasing, management]
+GOLD:	AM: -2.91E03	LM: -1.22E02	Total: -3.03E03	[a, supporting, factor, in, the, market, was, the, latest, monthly, survey, by, the, national, association, of, purchasing, management]
+
+GUESS:	AM: -2.67E03	LM: -1.16E02	Total: -2.78E03	[the, survey, indicated, that, the, economy, expanded, briskly, an, october, reversing, a, three, month, decline]
+GOLD:	AM: -2.67E03	LM: -1.14E02	Total: -2.78E03	[the, survey, indicated, that, the, economy, expanded, briskly, in, october, reversing, a, three, month, decline]
+
+GUESS:	AM: -3.67E03	LM: -1.36E02	Total: -3.81E03	[the, purchasing, managers, ', index, in, october, rose, to, fifty, six, point, eight, percent, from, fifty, four, point, eight, percent, in, september]
+GOLD:	AM: -3.67E03	LM: -1.36E02	Total: -3.81E03	[the, purchasing, managers, ', index, in, october, rose, to, fifty, six, point, eight, percent, from, fifty, four, point, eight, percent, in, september]
+
+GUESS:	AM: -2.64E03	LM: -1.34E02	Total: -2.78E03	[the, soviets, reasonable, are, having, difficulty, shipping, gas, oil, through, their, normal, want, reports, traders, said, in]
+GOLD:	AM: -2.65E03	LM: -1.38E02	Total: -2.79E03	[the, soviets, for, example, are, having, difficulty, shipping, gas, oil, through, their, normal, winter, ports, traders, said]
+
+GUESS:	AM: -2.13E03	LM: -9.49E01	Total: -2.22E03	[yesterday, many, corn, futures, prices, plunged, by, the, permissible, daily, limits, in]
+GOLD:	AM: -2.13E03	LM: -9.41E01	Total: -2.22E03	[yesterday, many, corn, futures, prices, plunged, by, their, permissible, daily, limits]
+
+GUESS:	AM: -9.69E02	LM: -4.55E01	Total: -1.01E03	[the, could, n't, be, reached, for, comment]
+GOLD:	AM: -9.67E02	LM: -4.99E01	Total: -1.02E03	[she, could, n't, be, reached, for, comment]
