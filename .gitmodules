@@ -1,0 +1,3 @@
+[submodule "Baseline"]
+	path = Baseline
+	url = https://github.com/slavstudent/stat-nlp-nyu.git
