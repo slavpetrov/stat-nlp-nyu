@@ -1,3 +1,9 @@
 [submodule "Baseline"]
 	path = Baseline
 	url = https://github.com/slavstudent/stat-nlp-nyu.git
+[submodule "Random"]
+	path = Random
+	url = https://github.com/slavpetrov/stat-nlp-nyu.git
+[submodule "Slav"]
+	path = Slav
+	url = https://github.com/slavstudent/stat-nlp-nyu.git
